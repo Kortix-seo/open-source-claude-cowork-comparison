@@ -20,7 +20,7 @@ The first interactive setup asks only for the integration credentials that unloc
 
 Kortix runs agents, skills, company memory, connector configuration and triggers from one git repo you own. Every session boots its own isolated Linux machine, and the agent commits its work to a branch and opens a change request that a human reads as a diff before it merges to main. Kortix takes any model with your own keys, and it self-hosts on a laptop, a VPS, your own VPC or an on-prem network, with managed cloud optional. Kortix is open source, so you can self-host, read and modify the code.
 
-The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+The source is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 ## The comparison at a glance
 
@@ -46,7 +46,7 @@ Licences and capabilities are as published by each project in October 2026. Star
 
 Sources:
 
-1. Kortix: https://kortix.com , https://kortix.com/docs , and [Kortix on GitHub](https://github.com/kortix-ai/suna).
+1. Kortix: https://kortix.com , https://kortix.com/docs , and [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 2. OpenHands: [repository](https://github.com/OpenHands/OpenHands), [LICENSE](https://github.com/OpenHands/OpenHands/blob/main/LICENSE), [docs](https://docs.openhands.dev/overview/introduction).
 3. OpenWork: [repository](https://github.com/different-ai/openwork).
 4. Open WebUI: [repository](https://github.com/open-webui/open-webui), [LICENSE](https://github.com/open-webui/open-webui/blob/main/LICENSE).
@@ -73,7 +73,7 @@ e388-comparison/
 - [Open-source AI agent platforms](https://opensourceclaudecowork.com/open-source-ai-agent-platforms) on the campaign site.
 - [Self-hosting an open source Claude Cowork alternative](https://opensourceclaudecowork.com/self-hosting).
 - [Claude Cowork vs ChatGPT Work](https://opensourceclaudecowork.com/claude-cowork-vs-chatgpt-work).
-- [Kortix on GitHub](https://github.com/kortix-ai/suna).
+- [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 
 ## Where to go next
